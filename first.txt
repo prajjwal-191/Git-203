@@ -1,0 +1,2 @@
+i will note all the things that i learned till now in git
+version 1
