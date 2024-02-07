@@ -1,4 +1,4 @@
 i will note all the things that i learned till now in git
 version 1
-this line is in version 2
-it is version 3
+
+this will do some updates on version 1 and commit it above version 3
